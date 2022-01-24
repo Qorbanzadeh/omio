@@ -1,4 +1,4 @@
-# omio_clone
+# Omio clone
 
 Clone UI of omio app
 
